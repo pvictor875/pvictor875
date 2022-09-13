@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @pvictor875 from Brazil 🇧🇷.
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning java.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Java.
 
 <!---
 pvictor875/pvictor875 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
